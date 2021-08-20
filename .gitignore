@@ -1,0 +1,13 @@
+target/
+target/*
+index-files/
+index-files/*
+screenShots/*
+reports/*
+test-output/
+test-output/*
+/.classpath
+/.settings/*
+/.project
+/automation.out
+.DS_Store

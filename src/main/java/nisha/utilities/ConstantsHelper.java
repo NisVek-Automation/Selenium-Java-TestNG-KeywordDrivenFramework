@@ -14,11 +14,11 @@ public class ConstantsHelper {
 	//File paths
 	public static final String projectPath = System.getProperty("user.dir");
 	public static final String log4jPropertyFilePath = projectPath + "/src/main/java/nisha/resources/log4j.properties";
-	public static final String reportFilePath = projectPath + "/src/test/java/nisha/reports/";
+	public static final String reportFilePath = projectPath + "/reports/";
 	public static final String pageObjectPropertyPath = projectPath + "/src/test/java/nisha/pageObjectProperties/";
 	public static final String testSuiteExcelSheetPath = projectPath + "/src/main/java/nisha/resources/TestSuite.xlsx";
 	public static final String TestStepDataExcelSheetData = projectPath + "/src/main/java/nisha/resources/TestCasesData.xlsx";
-	public static final String screenshotsPath = projectPath + "/src/test/java/nisha/screenShots/";
+	public static final String screenshotsPath = projectPath + "/screenShots/";
 	public static final String reportIndexFileName="index";
 	
 	//PageObject Property File Name
