@@ -1,5 +1,5 @@
 # Selenium Keyword Driven Framework
-![Selenium Datadriven Framework](https://github.com/NisVek-Automation/NisVek-Automation/blob/main/JavaKeywordDriven.gif)
+![Selenium Datadriven Framework](https://github.com/NisVek-Automation/NisVek-Automation/blob/main/readmeResources/JavaKeywordDriven.gif)
 
 ## Content
 **[1. About](#about)**
