@@ -1,52 +1,82 @@
 # Selenium Keyword Driven Framework
 ![Selenium Datadriven Framework](https://github.com/NisVek-Automation/NisVek-Automation/blob/main/readmeResources/JavaKeywordDriven.gif)
 
-## Content
-**[1. About](#about)**
+Don't forget to give this project a ⭐
+<div align="center">
 
-**[2. Technologies](#technologies)**
+[![Status](https://img.shields.io/badge/status-active-success.svg)]()
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
 
-**[3. Installation](#installation)**
-  
-  * [3.1 Prerequisite](#prerequisite)
-  * [3.2 Plugins](#plugins)
-  
-**[4. Framework Structure](#framework-structure)**
+</div>
 
-**[5. Usage](#usage)**
+## 📝 Table of Contents
 
-**[6. Contributing](#contributing)**
+- [About](#about)
+- [Features](#features)
+- [Technologies](#technologies)
+- [Installation](#installation)
+- [Dependencies](#dependencies)
+- [Getting Started](#getting_started)
+- [Framework Structure](#framework-structure)
+- [Contributing](#contributing)
+- [Authors](#author)
 
-**[7. Contributors](#contributors)**
+---
 
-  
-## About
-This Repository provides the basic testing framework to start the automation testing.
+## 🕹 About <a name = "about"></a>
 
+<p align="left"> 
+This Repository provides the basic testing keyword driven framework to start the UI automation testing.
+</p>
 
-## Technologies
-1. Selenium
-2. Java
-3. TestNG
-4. Maven
-5. log4j
+---
+## 🖥️ Technologies <a name = "technologies"></a>
 
-## Installation
+- [Selenium](https://www.selenium.dev/)
+- [Java](https://www.java.com/en/)
+- [TestNG](https://testng.org/doc/)
+- [Maven](https://maven.apache.org/)
+- [log4j](https://logging.apache.org/log4j/2.x/)
 
-#### Prerequisite:
+---
 
-1. Java
-2. Editor e.g. Eclipse
-3. Maven
+## ⚙️ Installation <a name = "installation"></a>
 
-#### Plugins:
+#### 🎯 Prerequisite:
 
-1. TestNG for Eclipse Plugin
-2. Maven Integration for Eclipse
+- [Java](https://www.java.com/en/download/help/index_installing.html) - Programming language
+- [Eclipse](https://www.eclipse.org/downloads/) - Editor
+- [Maven](https://maven.apache.org/index.html) - Software project Management tool
+
+#### 🔌 Plugins:
+
+- [TestNG for Eclipse Plugin](https://testng.org/doc/eclipse.html)
+- [Maven Integration for Eclipse](https://marketplace.eclipse.org/content/maven-integration-eclipse-luna-and-newer)
+
 
 All set!!! Just download the Project folder...
 
-## Framework Structure
+---
+
+## 🔁 Dependencies <a name = "dependencies"></a>
+
+Automation framework dependancies are mentioned in the <b>POM.xml</b> file, and are not limited to.
+
+---
+## 👩‍💻 Getting Started <a name = "getting_started"></a>
+
+How to use this framework?
+- Clone the repository to your workspace.
+
+```sh
+git clone https://github.com/NisVek-Automation/Selenium-Java-TestNG-KeywordDrivenFramework.git
+```
+
+- Run the TestNG.xml file. You can even run as mvn test which will trigger the TestNG.xml
+
+---
+
+## 🏗️ Framework Structure <a name = "framework-structure"></a>
 
 <p>
 <details><summary>src/main/java</summary><br>
@@ -102,26 +132,14 @@ All set!!! Just download the Project folder...
 </p>
 
 
-
-	
-## Usage
-
-1. Download the Project folder
-
-2. Compile
-
-3. Open Command Prompt, navigate to Project folder. Use below Maven command to run test:
-
-	To run:
-	
-		mvn clean verify
-
-## Contributing
+## 💬 Contributing <a name = "contributing"></a>
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 Please make sure to update tests as appropriate.
 
-## Contributors
+---
 
-Nisha Vekariya
+## ✍️ Author <a name = "author"></a>
+
+- [@NisVek-Automation](https://www.linkedin.com/in/nisha-vekariya/) - Nisha Vekariya
